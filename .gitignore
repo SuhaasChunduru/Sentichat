@@ -1,0 +1,5 @@
+.DS_Store
+
+# The pre-rewrite version, kept locally for reference only.
+# Git history already holds the original, so there is no need to commit a copy.
+Sentichat.original.html
